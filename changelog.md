@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bent10/named-characters/compare/v1.0.1...v1.0.2) (2023-09-18)
+
+
+### Bug Fixes
+
+* **release:** missing build files ([28034be](https://github.com/bent10/named-characters/commit/28034bee62c2c4bf4e65f54f5de142de0a55face))
+
 ## [1.0.1](https://github.com/bent10/named-characters/compare/v1.0.0...v1.0.1) (2023-09-18)
 
 
