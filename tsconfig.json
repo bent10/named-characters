@@ -1,12 +1,5 @@
 {
   "extends": "@tsconfig/node16/tsconfig.json",
 
-  "compilerOptions": {
-    "types": ["vite/client"],
-    "lib": ["es2021", "DOM"],
-    "declaration": false,
-    "noEmit": false
-  },
-
   "include": ["src"]
 }
